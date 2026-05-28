@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Shadowofficielle.github.io/discord26/sitemap.xml
