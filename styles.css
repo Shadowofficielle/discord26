@@ -12,7 +12,7 @@
 html,body{min-height:100%;margin:0;font-family:'Inter',system-ui,Segoe UI,Roboto,'Helvetica Neue',Arial;color:var(--text);background:#09030b}
 body{display:flex;flex-direction:column;background-image:radial-gradient(circle at top left, rgba(255,87,87,.14), transparent 25%),radial-gradient(circle at bottom right, rgba(255,160,105,.08), transparent 18%),linear-gradient(180deg,#0c0409 0%,#070106 65%,#050003 100%);background-attachment:fixed}
 .hero{position:relative;overflow:hidden;padding:5rem 1rem 4rem;text-align:center;background:radial-gradient(circle at center, rgba(255,68,68,.14), transparent 25%),linear-gradient(180deg, rgba(94,15,15,.15), rgba(0,0,0,.88));}
-.hero::after{content:'';position:absolute;inset:0;background-image:url('https://images.unsplash.com/photo-1599785209790-7f456c1438e0?auto=format&fit=crop&w=1600&q=80');background-size:cover;background-position:center;opacity:.18;filter:blur(1px);mix-blend-mode:screen}
+.hero::after{content:'';position:absolute;inset:0;background-image:url('https://images.rbxcdn.com/b80339ddf867ccfe6ab23a2c263d8000.png');background-size:cover;background-position:center;opacity:.18;filter:blur(1px);mix-blend-mode:screen}
 .hero-body{position:relative;z-index:1;max-width:820px;margin:0 auto}
 .site-brand{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.4rem;margin-bottom:1.75rem}
 .site-brand .logo{display:inline-flex;align-items:center;gap:.85rem;padding:.85rem 1.15rem;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);box-shadow:0 22px 55px rgba(0,0,0,.24)}
